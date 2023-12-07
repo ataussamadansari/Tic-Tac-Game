@@ -13,4 +13,6 @@
 - 📫 How to reach me **sam.an.vns6@gmail.com**
 
 - <h1>Screenshot</h1>
-<img src="">
+<img src="https://github.com/samad885/Tic-Tac-Game/blob/master/app/src/main/res/drawable/screenshot1.jpg" alt="404">
+
+<img src="https://github.com/samad885/Tic-Tac-Game/blob/master/app/src/main/res/drawable/screenshot2.jpg" alt="404">
