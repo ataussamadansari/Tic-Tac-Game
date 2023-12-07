@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac</string>
+    <string name="reset">Reset</string>
+    <string name="score_x_0">Score X:- 0</string>
+    <string name="score_o_0">0 -:Score O </string>
+    <string name="o">O</string>
+    <string name="winner">Winner!</string>
+    <string name="ok">OK</string>
+    <string name="draw_game">Draw!</string>
+    <string name="x">X</string>
+</resources>
